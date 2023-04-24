@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\bin\Debug\net6.0\ClassInherutance-Task.exe
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\bin\Debug\net6.0\ClassInherutance-Task.deps.json
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\bin\Debug\net6.0\ClassInherutance-Task.runtimeconfig.json
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\bin\Debug\net6.0\ClassInherutance-Task.dll
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\bin\Debug\net6.0\ClassInherutance-Task.pdb
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\obj\Debug\net6.0\ClassInherutance-Task.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\obj\Debug\net6.0\ClassInherutance-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\obj\Debug\net6.0\ClassInherutance-Task.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\obj\Debug\net6.0\ClassInherutance-Task.AssemblyInfo.cs
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\obj\Debug\net6.0\ClassInherutance-Task.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\obj\Debug\net6.0\ClassInherutance-Task.dll
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\obj\Debug\net6.0\refint\ClassInherutance-Task.dll
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\obj\Debug\net6.0\ClassInherutance-Task.pdb
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\obj\Debug\net6.0\ClassInherutance-Task.genruntimeconfig.cache
+C:\Users\hp\Desktop\ClassInherutance-Task\ClassInherutance-Task\obj\Debug\net6.0\ref\ClassInherutance-Task.dll
